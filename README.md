@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Aman Partel</h1>
+<h1 align="center">Hey 👋 I'm Aman Partel</h1>
 <h3 align="center">CS undergrad at Pulchowk.</h3>
 
-- 🔭 I’m currently working on **AmanLog**
+- 🔭 I’m currently working on **AmanCart**
 
 - 📫 How to reach me **amanpartelyt@gmail.com**
 
