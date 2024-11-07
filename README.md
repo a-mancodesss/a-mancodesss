@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amanpartelyt@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=a-mancodesss)
 <p align="left">
 </p>
 
