@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Aman Partel</h1>
-<h3 align="center">CS undergrad at Pulchowk.</h3>
+<h3 align="center">CS undergrad at Pulchowk Campus</h3>
 
 - 🔭 I’m currently working on **MXT**
 
