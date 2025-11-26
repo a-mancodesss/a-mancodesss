@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Aman Bagale</h1>
 <h3 align="center">Computer Engineering Undergrad at Pulchowk Campus</h3>
 
-- 🔭 I’m currently working on **CodePilot**
+- 🔭 I’m currently learning **DeepLearning**
 
 - 📫 How to reach me **amanbagale20@gmail.com**
 
