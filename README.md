@@ -68,8 +68,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-mancodesss&show_icons=true&locale=en&layout=compact" alt="a-mancodesss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-mancodesss&show_icons=true&locale=en" alt="a-mancodesss" /></p>
-
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a-mancodesss" alt="GitHub Streak" /></a></p>
